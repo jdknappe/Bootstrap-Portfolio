@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    color: #f5f6f7;
+}
+
+.bg-1 {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+
+.bg-4 {
+    background-color: #2f2f2f; /* Black Gray */
+    color: #ffffff;
+}
+
+p {
+    font-size: 16px;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    position: relative;
+}
+
+#profilePic {
+    display: inline;
+}
+
+#coffee {
+    width: 100%;
+}
+
+#mountain {
+    width: 100%;
+}
+
+#dusk {
+    width: 100%;
+}
+
+#profilePic {
+    width: 50%;
+    height: 50%;
+}
+
+.projectImg {
+    length: 600px;
+    width: 400px;
+    border: solid 2px;
+}
+
+textarea {
+    width: 200px;
+    height: 600px;
+}
+
+#hangmanLabel {
+    text-align: center;
+    position: relative;
+    background-color: #339966;
+    padding: 27px;
+    left: -262px;
+    bottom: -100px;
+}
+
+#rpgLabel {
+    text-align: center;
+    position: relative;
+    background-color: #339966;
+    padding: 27px;
+    left: -249px;
+    bottom: -100px;
+}
+
+#triviaLabel {
+    text-align: center;
+    position: relative;
+    background-color: #339966;
+    padding: 27px;
+    left: -271px;
+    bottom: -100px;
+}
+
+#rutgersLabel {
+    text-align: center;
+    position: relative;
+    background-color: #339966;
+    padding: 27px;
+    left: -289px;
+    bottom: -100px;
+}
+
+#rpsLabel {
+    text-align: center;
+    position: relative;
+    background-color: #339966;
+    padding: 27px;
+    left: -296px;
+    bottom: -100px;
+}
